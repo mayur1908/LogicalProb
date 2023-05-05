@@ -1,0 +1,8 @@
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\obj\Debug\FibonacciSerise.csproj.AssemblyReference.cache
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\obj\Debug\FibonacciSerise.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\obj\Debug\FibonacciSerise.csproj.CoreCompileInputs.cache
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\bin\Debug\FibonacheSerise.exe.config
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\bin\Debug\FibonacheSerise.exe
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\bin\Debug\FibonacheSerise.pdb
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\obj\Debug\FibonacheSerise.exe
+D:\bridgelabz\FibonacheSerise\FibonacheSerise\obj\Debug\FibonacheSerise.pdb
